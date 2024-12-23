@@ -5,37 +5,61 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BW4a8E15SP7JK9rlOZZH-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/connected-globe-128.png" vertex="1" parent="1">
-          <mxGeometry x="-28" y="197" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="BW4a8E15SP7JK9rlOZZH-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tweetscotty/128/twitterbot.png" vertex="1" parent="1">
-          <mxGeometry x="580" y="100" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="BW4a8E15SP7JK9rlOZZH-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="1">
-          <mxGeometry x="590" y="257" width="51.080000000000005" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="BW4a8E15SP7JK9rlOZZH-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/construction-2-21/512/construction-industry-building-08-128.png" vertex="1" parent="1">
-          <mxGeometry x="670" y="350" width="128" height="128" as="geometry" />
+          <mxGeometry x="-140" y="228" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="BW4a8E15SP7JK9rlOZZH-9" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon47;" vertex="1" parent="1">
-          <mxGeometry x="69" y="130" width="50" height="50" as="geometry" />
+          <mxGeometry x="-78" y="120" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BW4a8E15SP7JK9rlOZZH-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/vehicle-37/24/Tank-128.png" vertex="1" parent="1">
-          <mxGeometry x="490" y="350" width="128" height="128" as="geometry" />
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="30" width="360" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="BW4a8E15SP7JK9rlOZZH-12" value="&lt;h1&gt;&amp;nbsp;环境&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=-500;" vertex="1" parent="1">
-          <mxGeometry x="148" y="40" width="300" height="570" as="geometry" />
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-16" value="&lt;h1&gt;本体&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=-500;" vertex="1" parent="BW4a8E15SP7JK9rlOZZH-19">
+          <mxGeometry width="360" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="BW4a8E15SP7JK9rlOZZH-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/brain-think-brainstorm-creative-idea-128.png" vertex="1" parent="1">
-          <mxGeometry x="430" y="197" width="128" height="128" as="geometry" />
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="BW4a8E15SP7JK9rlOZZH-19">
+          <mxGeometry x="41" y="80" width="279" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BW4a8E15SP7JK9rlOZZH-13" value="&amp;nbsp;本体-物理环境" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/world_www_web_website-128.png" vertex="1" parent="1">
-          <mxGeometry x="234" y="140" width="128" height="128" as="geometry" />
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tweetscotty/128/twitterbot.png" vertex="1" parent="BW4a8E15SP7JK9rlOZZH-19">
+          <mxGeometry x="60" y="86" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="BW4a8E15SP7JK9rlOZZH-3" value="人-机" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
-          <mxGeometry x="244.5" y="320" width="107" height="77" as="geometry" />
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/vehicle-37/24/Tank-128.png" vertex="1" parent="BW4a8E15SP7JK9rlOZZH-19">
+          <mxGeometry x="130.5" y="70" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BW4a8E15SP7JK9rlOZZH-2" value="多机" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/robot-128.png" vertex="1" parent="1">
-          <mxGeometry x="243.5" y="440" width="108" height="108" as="geometry" />
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="BW4a8E15SP7JK9rlOZZH-19">
+          <mxGeometry x="250" y="90" width="45.07" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-18" value="&lt;h1&gt;&amp;nbsp;智能&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=-200;" vertex="1" parent="BW4a8E15SP7JK9rlOZZH-19">
+          <mxGeometry x="60" y="270" width="240" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/brain-think-brainstorm-creative-idea-128.png" vertex="1" parent="BW4a8E15SP7JK9rlOZZH-19">
+          <mxGeometry x="122" y="340" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-30" value="&lt;h2&gt;&lt;i&gt;决策&lt;/i&gt;&lt;/h2&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="BW4a8E15SP7JK9rlOZZH-19">
+          <mxGeometry x="40" y="170" width="102" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="30" width="720" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-12" value="&lt;h1&gt;&amp;nbsp;环境&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=-500;" vertex="1" parent="BW4a8E15SP7JK9rlOZZH-15">
+          <mxGeometry width="300" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-13" value="&amp;nbsp;本体-物理环境" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/world_www_web_website-128.png" vertex="1" parent="BW4a8E15SP7JK9rlOZZH-15">
+          <mxGeometry x="86" y="100" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-3" value="人-机" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="BW4a8E15SP7JK9rlOZZH-15">
+          <mxGeometry x="96.5" y="280" width="107" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-2" value="多机" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/robot-128.png" vertex="1" parent="BW4a8E15SP7JK9rlOZZH-15">
+          <mxGeometry x="95.5" y="400" width="108" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-28" value="&lt;h2&gt;&lt;i&gt;感知&lt;/i&gt;&lt;/h2&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.48;dx=39;notch=0;" vertex="1" parent="BW4a8E15SP7JK9rlOZZH-15">
+          <mxGeometry x="280" y="420" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-29" value="&lt;h2&gt;&lt;i&gt;行动&lt;/i&gt;&lt;/h2&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" vertex="1" parent="BW4a8E15SP7JK9rlOZZH-15">
+          <mxGeometry x="300" y="70" width="280" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="BW4a8E15SP7JK9rlOZZH-24" value="&lt;h2&gt;&lt;i&gt;与环境的交互&lt;/i&gt;&lt;/h2&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.54;dx=35;" vertex="1" parent="1">
+          <mxGeometry x="340" y="300" width="260" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
